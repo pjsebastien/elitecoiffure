@@ -1182,6 +1182,7 @@ address {
     .hero-actions {
         flex-direction: row;
         gap: 16px;
+        justify-content: center;
     }
 
     .hero-logo {
