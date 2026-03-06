@@ -58,7 +58,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     // ---- Scroll reveal ----
     const revealElements = document.querySelectorAll(
-        '.prestation-card, .couleur-card, .soin-card, .galerie-item, .tarif-block, .salon-card, .kerastase-gamme, .ambiance-item'
+        '.prestation-card, .couleur-card, .soin-card, .galerie-item, .tarif-block, .salon-card, .kerastase-gamme, .ambiance-item, .avis-card'
     );
 
     revealElements.forEach(el => el.classList.add('reveal'));
